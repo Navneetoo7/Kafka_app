@@ -16,4 +16,5 @@ async function init() {
   await admin.disconnect();
   console.log("disconnectedn ");
 }
+
 init();
